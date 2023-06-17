@@ -5,13 +5,14 @@
 <script lang="ts" setup>
 import { onBeforeUnmount, onMounted, ref } from "vue"
 import { ThreeHelper } from "./threeHelper/index"
+import { withBase } from "./utils/pathUtils"
 
 const threeContainer = ref();
 onMounted(() => {
   // 创建three场景
   const threeHelper = new ThreeHelper(threeContainer.value);
   console.log(threeHelper);
-  threeHelper.loadManager.loadTileset("/data/3dtiles/shenwai/tileset.json");
+  threeHelper.loadManager.loadTileset(withBase("/data/3dtiles/shenwai/tileset.json"));
 
   onBeforeUnmount(() => {
     // 释放threejs占用的内存

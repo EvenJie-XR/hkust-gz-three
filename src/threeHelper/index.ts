@@ -3,6 +3,7 @@ import { EventManager } from "./eventManager"
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls"
 import { LoadManager } from "./loadManager";
 import { HelperManager } from "./helperManager";
+import { withBase } from "../utils/pathUtils";
 
 export class ThreeHelper {
     public camera: THREE.PerspectiveCamera;
@@ -88,7 +89,7 @@ export class ThreeHelper {
         this.scene.add(ambientLight);
 
         // 添加天空盒
-        this.scene.background = new THREE.CubeTextureLoader().setPath('/data/skybox/cube/')
+        this.scene.background = new THREE.CubeTextureLoader().setPath(withBase('/data/skybox/cube/'))
             .load(['px.jpg', 'nx.jpg', 'py.jpg', 'ny.jpg', 'pz.jpg', 'nz.jpg']);
         this.helperManager.addStats();
     }
