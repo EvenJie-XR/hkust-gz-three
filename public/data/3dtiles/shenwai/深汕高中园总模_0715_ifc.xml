@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelPointClass xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Header>
+		<Description>AirCity 3dsMax Plugin For OSG</Description>
+		<File>D:\0飞渡项目\深汕高中园总模_0524\深汕高中园总模_0715.max</File>
+		<Author>AirCity.Inc</Author>
+	</Header>
+	<Images>
+		<Image File="00.jpg" Hash="DE5EF5461A949FCB4689852C2DA3B02B">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\00.jpg"/>
+		</Image>
+		<Image File="13 (2).jpg" Hash="9C055B8C9C423E3B28A3477BCD886E33">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\13 (2).jpg"/>
+		</Image>
+		<Image File="85432121.jpg" Hash="11DE9CF3C3BD998D4F30BEDDBA7A74DD">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\85432121.jpg"/>
+		</Image>
+		<Image File="Furnishings.Fabrics.Linen.White.jpg" Hash="D516E7008073201D93AF8C577D689A75">
+			<SubImage File="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\Textures\1\Mats\Furnishings.Fabrics.Linen.White.jpg"/>
+		</Image>
+		<Image File="Map0.png" Hash="AD86BAFC46E4BCBEE96D3664C374F013"/>
+		<Image File="Map1.png" Hash="6EFC71F20BAF6C04A5AEC0ECE0CA1210"/>
+		<Image File="Map2.png" Hash="FE58A1C6E580A9D4E057F35C8AF7823E"/>
+		<Image File="Metals.Ornamental Metals.Plate.Mesh.2.jpg" Hash="27E6955A97BA053D94D6B77D9E68D155">
+			<SubImage File="C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\Textures\3\Mats\Metals.Ornamental Metals.Plate.Mesh.2.jpg"/>
+		</Image>
+		<Image File="TT_DX00001.jpg" Hash="BD4EEE6CC5A86422D9FC2B990CE2DED7">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00001.jpg"/>
+		</Image>
+		<Image File="TT_DX00002.jpg" Hash="77F3E7C7D11DF763B899D6ADC229BE26">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00002.jpg"/>
+		</Image>
+		<Image File="TT_DX00003.jpg" Hash="E463F2792DE4D61C1AA05308F6880EFD">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00003.jpg"/>
+		</Image>
+		<Image File="TT_DX00004.jpg" Hash="90D92882F6CF2FDFC016BC0BF7F5AA93">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00004.jpg"/>
+		</Image>
+		<Image File="TT_DX00005.jpg" Hash="22BFD406456453E7F72ACDEFF8CB5CBA">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00005.jpg"/>
+		</Image>
+		<Image File="TT_DX00006.png" Hash="F7A261A5EB2AD2FD4DF268E85B3011AD">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00006.png"/>
+		</Image>
+		<Image File="TT_DX00007.JPG" Hash="3EECA49405320DB13D091C692E28470B">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00007.JPG"/>
+		</Image>
+		<Image File="TT_DX00008.jpg" Hash="33D0E223D1C91B39403A7B377678F433">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00008.jpg"/>
+		</Image>
+		<Image File="TT_DX00009.JPG" Hash="53755BE4203361E2A99805CB4AABB188">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00009.JPG"/>
+		</Image>
+		<Image File="TT_DX00010.jpg" Hash="230E69BBEAA6912F971B2F8C5454C385">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00010.jpg"/>
+		</Image>
+		<Image File="TT_DX00011.jpg" Hash="E1EFABEC7305C9050F785D5C6C09BD11">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00011.jpg"/>
+		</Image>
+		<Image File="TT_DX00012.jpg" Hash="2C67084255B1E08A4AF6BFEDE2BA392B">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\TT_DX00012.jpg"/>
+		</Image>
+		<Image File="_6.jpg" Hash="438DBAAF72A16F2379C4BD08E039E3F2">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\_6.jpg"/>
+		</Image>
+		<Image File="_OrangeR.jpg" Hash="0494BF0C8854F49B686AD97DF6C84921">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\_OrangeR.jpg"/>
+		</Image>
+		<Image File="budao.png" Hash="AD3724D51CC2F719D73C213917006478">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\budao.png"/>
+		</Image>
+		<Image File="bumpbee.png" Hash="4D7175A5A4C4575F26E86F8A0864665A">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\bumpbee.png"/>
+		</Image>
+		<Image File="ccd.jpg" Hash="08385AC0E430E0242F6BD4DC0188A611">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\ccd.jpg"/>
+		</Image>
+		<Image File="dmydc30.jpg" Hash="940568274FD67F2BED23D48B861E994D">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\dmydc30.jpg"/>
+		</Image>
+		<Image File="mw100.jpg" Hash="C9FFB15C16BAFAFE61C55FF13D2B1F1F">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\mw100.jpg"/>
+		</Image>
+		<Image File="qiang166.JPG" Hash="E93E05D48B90B7E55C50ACA40EE6517C">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\qiang166.JPG"/>
+		</Image>
+		<Image File="shicai.JPG" Hash="3EECA49405320DB13D091C692E28470B">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\shicai.JPG"/>
+		</Image>
+		<Image File="sy0012.jpg" Hash="BF1248AC42D693C16A1795722FA09AC5">
+			<SubImage File="D:\0飞渡项目\深汕高中园总模_0524\sy0012.jpg"/>
+		</Image>
+	</Images>
+	<ModelPoint>
+		<ModelName>layer_0</ModelName>
+		<LocationX>2</LocationX>
+		<LocationY>0</LocationY>
+		<LocationZ>-0.000244140625</LocationZ>
+		<Matrix3>1,0,0,0,1,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="1"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+1"/>
+			<Property Name="ModelHash" Value="74824100F217DF616368B334A8AEE827"/>
+			<Property Name="Name" Value="Layer:0"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>e1</ModelName>
+		<LocationX>-138.54289245605469</LocationX>
+		<LocationY>239.4525146484375</LocationY>
+		<LocationZ>-1.63623046875</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="44"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+44"/>
+			<Property Name="ModelHash" Value="24AD3D2221530A941C36BE9211569E22"/>
+			<Property Name="Name" Value="E1"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>e0</ModelName>
+		<LocationX>-212.44198608398438</LocationX>
+		<LocationY>164.71243286132813</LocationY>
+		<LocationZ>-1.63623046875</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="45"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+45"/>
+			<Property Name="ModelHash" Value="7574002096BF55A201AA700DF70AC74A"/>
+			<Property Name="Name" Value="E0"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>rectangle014</ModelName>
+		<LocationX>-143.54360961914063</LocationX>
+		<LocationY>272.57818603515625</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="46"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+46"/>
+			<Property Name="ModelHash" Value="DDF5B2BD0EF7B519ECDCC708F010411E"/>
+			<Property Name="Name" Value="Rectangle014"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d2</ModelName>
+		<LocationX>-213.60372924804688</LocationX>
+		<LocationY>54.538787841796875</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="47"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+47"/>
+			<Property Name="ModelHash" Value="31A6AB41B8F874F3E5AD3CE52BA48BCC"/>
+			<Property Name="Name" Value="D2"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>c3</ModelName>
+		<LocationX>-193.69198608398438</LocationX>
+		<LocationY>-400.9696044921875</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="48"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+48"/>
+			<Property Name="ModelHash" Value="00D06CC5663E230D023EE79F2AFC776A"/>
+			<Property Name="Name" Value="C3"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>c4</ModelName>
+		<LocationX>-191.26431274414063</LocationX>
+		<LocationY>-482.74172973632813</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="49"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+49"/>
+			<Property Name="ModelHash" Value="266BC9CC43BA8949330DA34C1A79BE47"/>
+			<Property Name="Name" Value="C4"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>c5</ModelName>
+		<LocationX>-136.87199401855469</LocationX>
+		<LocationY>-384.185302734375</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="50"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+50"/>
+			<Property Name="ModelHash" Value="5377FA46AD10CA3EB84F9550CC324CA4"/>
+			<Property Name="Name" Value="C5"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>c1</ModelName>
+		<LocationX>-24.510627746582031</LocationX>
+		<LocationY>-287.0811767578125</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="51"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+51"/>
+			<Property Name="ModelHash" Value="8CA4AEAF0B03D68767A2B39EB62A41B4"/>
+			<Property Name="Name" Value="C1"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>c0</ModelName>
+		<LocationX>-35.026229858398438</LocationX>
+		<LocationY>-247.94805908203125</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="52"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+52"/>
+			<Property Name="ModelHash" Value="DB36151E0D8D7EF3867413041D1410F0"/>
+			<Property Name="Name" Value="C0	"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>object014</ModelName>
+		<LocationX>12.144691467285156</LocationX>
+		<LocationY>222.60684204101563</LocationY>
+		<LocationZ>-1.375244140625</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="53"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+53"/>
+			<Property Name="ModelHash" Value="56DDC570BCD185EF2C9D7398AEED80EE"/>
+			<Property Name="Name" Value="Object014"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d1b</ModelName>
+		<LocationX>-225.00350952148438</LocationX>
+		<LocationY>-61.783329010009766</LocationY>
+		<LocationZ>-0.6095123291015625</LocationZ>
+		<Matrix3>0.981936872,-0.1892088503,0,0.1892088503,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="55"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+55"/>
+			<Property Name="ModelHash" Value="3376DD3FFF2370EE658B1206ABEE94C7"/>
+			<Property Name="Name" Value="D1b"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d3</ModelName>
+		<LocationX>-240.98974609375</LocationX>
+		<LocationY>-208.7559814453125</LocationY>
+		<LocationZ>-3.2734375</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="41"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+41"/>
+			<Property Name="ModelHash" Value="EDE8FC9F6D1BCFAA461D427457127F89"/>
+			<Property Name="Name" Value="D3"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>a0</ModelName>
+		<LocationX>159.12934875488281</LocationX>
+		<LocationY>100.46470642089844</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="3"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+3"/>
+			<Property Name="ModelHash" Value="5260B4B55D70EED8C7CDC02841B2E7D1"/>
+			<Property Name="Name" Value="A0"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>a1</ModelName>
+		<LocationX>-12.54399299621582</LocationX>
+		<LocationY>93.976005554199219</LocationY>
+		<LocationZ>0.19336700439453125</LocationZ>
+		<Matrix3>0.9363791943,-0.1804302633,-7.104905553e-09,-4.392821396e-08,-2.655249318e-07,0.9536042213,-0.1804302633,-0.9363791943,-2.690403562e-07</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="5"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+5"/>
+			<Property Name="ModelHash" Value="F9D95F92FA1D6D4E325F87574683A857"/>
+			<Property Name="Name" Value="A1"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>a2</ModelName>
+		<LocationX>88.482345581054688</LocationX>
+		<LocationY>110.31437683105469</LocationY>
+		<LocationZ>4.5086669921875</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="7"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+7"/>
+			<Property Name="ModelHash" Value="8D6F7987CF8E923078F352599ECA2DDC"/>
+			<Property Name="Name" Value="A2"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>a3a4</ModelName>
+		<LocationX>74.775009155273438</LocationX>
+		<LocationY>-0.30384063720703125</LocationY>
+		<LocationZ>4.7762451171875</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="9"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+9"/>
+			<Property Name="ModelHash" Value="3ACA8E09728B14280FE1526D26CE3E1A"/>
+			<Property Name="Name" Value="A3A4"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>a6</ModelName>
+		<LocationX>217.30813598632813</LocationX>
+		<LocationY>180.50437927246094</LocationY>
+		<LocationZ>9.82666015625</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="11"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+11"/>
+			<Property Name="ModelHash" Value="A94963CC18574D06FC7CBD7491EE5248"/>
+			<Property Name="Name" Value="A6"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>b0</ModelName>
+		<LocationX>-213.60372924804688</LocationX>
+		<LocationY>54.53875732421875</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="13"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+13"/>
+			<Property Name="ModelHash" Value="83174C727DDC71229B7C5CA83BC26DD6"/>
+			<Property Name="Name" Value="B0"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>b4</ModelName>
+		<LocationX>75.693153381347656</LocationX>
+		<LocationY>-251.45069885253906</LocationY>
+		<LocationZ>5.1055564880371094</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="15"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+15"/>
+			<Property Name="ModelHash" Value="BF38F3AD6EC8387AB2B35EC81ECA61D8"/>
+			<Property Name="Name" Value="B4"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>b2b3</ModelName>
+		<LocationX>72.600265502929688</LocationX>
+		<LocationY>-122.28632354736328</LocationY>
+		<LocationZ>4.78564453125</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="17"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+17"/>
+			<Property Name="ModelHash" Value="FB705CFA2CF5B77D1B9354632B1AD6D3"/>
+			<Property Name="Name" Value="B2B3"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>b1</ModelName>
+		<LocationX>-213.4482421875</LocationX>
+		<LocationY>53.310989379882813</LocationY>
+		<LocationZ>5.6923050880432129</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="19"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+19"/>
+			<Property Name="ModelHash" Value="8E2EA139E95144D05BFF98F15337CDF9"/>
+			<Property Name="Name" Value="B1"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>b5</ModelName>
+		<LocationX>-37.377063751220703</LocationX>
+		<LocationY>-247.82229614257813</LocationY>
+		<LocationZ>2.6770000457763672</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="21"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+21"/>
+			<Property Name="ModelHash" Value="0020192C50DAFA2E5B1E031B4CAA775D"/>
+			<Property Name="Name" Value="B5"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>a7</ModelName>
+		<LocationX>112.83674621582031</LocationX>
+		<LocationY>238.20851135253906</LocationY>
+		<LocationZ>4.8088474273681641</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="23"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+23"/>
+			<Property Name="ModelHash" Value="CEF0BFCF665CFD9B0B09E1BE60A663A2"/>
+			<Property Name="Name" Value="A7"/>
+			<Property Name="Layer" Value="0"/>
+			<Property Name="UserDefined" Value="id = 2435378
+Category Name = Floors
+Family Name = Floor
+Type Name = 结构楼面_120mm
+Document = SSGZY_A7_PD_TJ_V1.0
+Volume = 0.67
+Level = STR(3.300)
+Elevation at Top Core = 30300.00
+Slope = 0.00°
+Type = 结构楼面_120mm
+Room Bounding = True
+Family = Floor
+Elevation at Top = 30300.00
+Core Thickness = 120.00
+Perimeter = 10199.93
+Category = Floors
+混凝土强度等级 = C30
+Area = 5.60
+Related to Mass = False
+Type Id = 2326097
+Rebar Cover - Bottom Face = 钢筋保护层 1 &lt;25 mm&gt;
+Enable Analytical Model = True
+Design Option = -1
+Image = &lt;None&gt;
+Family and Type = Floor: 结构楼面_120mm
+Structural = True
+Elevation at Top Survey = 3300.00
+Elevation at Bottom Survey = 3180.00
+Phase Demolished = None
+Elevation at Bottom = 30180.00
+Rebar Cover - Other Faces = 钢筋保护层 1 &lt;25 mm&gt;
+Elevation at Bottom Core = 30180.00
+Phase Created = 新构造
+Height Offset From Level = 0.00
+Thickness = 120.00
+Rebar Cover - Top Face = 钢筋保护层 1 &lt;25 mm&gt;
+Heat Transfer Coefficient (U) = 0.0000 W/(m²·K)
+Thermal Resistance (R) = 0.0000 (m²·K)/W
+Default Thickness = 120.00
+Absorptance = 0.7
+Cost = 0.00
+Structure = Unexposed parameter.
+Structural Material = 混凝土 - 现场浇注混凝土-C30
+Thermal mass = 0.00 kJ/K
+Type Image = &lt;None&gt;
+Roughness = 3
+Function = Interior
+"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>e2</ModelName>
+		<LocationX>-220.3544921875</LocationX>
+		<LocationY>285.16815185546875</LocationY>
+		<LocationZ>-3.2205924987792969</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="25"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+25"/>
+			<Property Name="ModelHash" Value="3349D6A30ACEFE497FA9B1F3E7E8DB9E"/>
+			<Property Name="Name" Value="E2"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>c2</ModelName>
+		<LocationX>-282.41000366210938</LocationX>
+		<LocationY>-360.45916748046875</LocationY>
+		<LocationZ>3.1999998092651367</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="27"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+27"/>
+			<Property Name="ModelHash" Value="2AF9E33A8BA3456B12BC3658ABDFF168"/>
+			<Property Name="Name" Value="C2"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d1c</ModelName>
+		<LocationX>-133.97732543945313</LocationX>
+		<LocationY>48.061111450195313</LocationY>
+		<LocationZ>7.9054880142211914</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="31"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+31"/>
+			<Property Name="ModelHash" Value="899649C199F1FB399711C87E048E7F5B"/>
+			<Property Name="Name" Value="D1c"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d1a</ModelName>
+		<LocationX>-143.49720764160156</LocationX>
+		<LocationY>-78.039108276367188</LocationY>
+		<LocationZ>9.4936618804931641</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="33"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+33"/>
+			<Property Name="ModelHash" Value="39A7810DDE89BB1998E7C13A6C01856F"/>
+			<Property Name="Name" Value="D1a"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d4</ModelName>
+		<LocationX>54.785518646240234</LocationX>
+		<LocationY>-45.786994934082031</LocationY>
+		<LocationZ>19.775003433227539</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="35"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+35"/>
+			<Property Name="ModelHash" Value="603EB2604D5F221186C026920A8504C1"/>
+			<Property Name="Name" Value="D4"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d5</ModelName>
+		<LocationX>61.931434631347656</LocationX>
+		<LocationY>-47.046924591064453</LocationY>
+		<LocationZ>2.0999999046325684</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="37"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+37"/>
+			<Property Name="ModelHash" Value="D99B92B43CFA9905D7FDB478ED4370F0"/>
+			<Property Name="Name" Value="D5"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>d0</ModelName>
+		<LocationX>-162.42083740234375</LocationX>
+		<LocationY>-20.080099105834961</LocationY>
+		<LocationZ>-10.624999046325684</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="39"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+39"/>
+			<Property Name="ModelHash" Value="CAF159B82CC39C07C5FDC68B47751C95"/>
+			<Property Name="Name" Value="D0"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>e3</ModelName>
+		<LocationX>-170.96894836425781</LocationX>
+		<LocationY>262.66891479492188</LocationY>
+		<LocationZ>20.482019424438477</LocationZ>
+		<Matrix3>0.981936872,-0.1892087311,0,0.1892087311,0.981936872,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="43"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+43"/>
+			<Property Name="ModelHash" Value="5840D9A76CF36BAEA95A48552EACE551"/>
+			<Property Name="Name" Value="E3"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>dx_a0001</ModelName>
+		<LocationX>424.34304809570313</LocationX>
+		<LocationY>-510.62408447265625</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>1,0,0,0,1,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="449"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+449"/>
+			<Property Name="ModelHash" Value="9A6FAEDE72DD3E32A8A46429A4B3C745"/>
+			<Property Name="Name" Value="DX_A0001"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+	<ModelPoint>
+		<ModelName>rectangle015</ModelName>
+		<LocationX>-279.5042724609375</LocationX>
+		<LocationY>43.263645172119141</LocationY>
+		<LocationZ>0</LocationZ>
+		<Matrix3>1,0,0,0,1,0,0,0,1</Matrix3>
+		<Properties>
+			<Property Name="ElementID" Value="453"/>
+			<Property Name="UniqueID" Value="4FF0368D-7627-4FFB-A118-CAE3A994AFEA+453"/>
+			<Property Name="ModelHash" Value="160E0AC6A77878DB1FD81DA2FC3D82F5"/>
+			<Property Name="Name" Value="Rectangle015"/>
+			<Property Name="Layer" Value="0"/>
+		</Properties>
+	</ModelPoint>
+</ModelPointClass>
